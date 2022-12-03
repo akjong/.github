@@ -1,7 +1,7 @@
-# AKjong Lab
+<p align="center">
+  <img width="900" src="assets/aklogo.png" alt="aklogo">
+</p>
 
 ## About
 
-Welcome to AKjong Lab!
-
-All in Web 3.0!
+AKjong Lab focuses on Web3 DeFi and Trading.
