@@ -1,3 +1,5 @@
 # AKjong Lab profile
 
-AKjong Lab focuses on Web 3.0.
+[![Super Linter](https://github.com/akjong/.github/actions/workflows/lint.yml/badge.svg)](https://github.com/akjong/.github/actions/workflows/lint.yml)
+
+AKjong Lab focuses on Web3 DeFi and Trading.
