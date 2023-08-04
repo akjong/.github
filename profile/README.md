@@ -4,4 +4,8 @@
 
 ## About
 
-AKjong Lab focuses on Web3 DeFi and Trading.
+AKjong Lab focuses on Web3 Infras and Trading.
+
+## Sharings
+
+Follow me on [youtube](https://www.youtube.com/@akjonglab)
