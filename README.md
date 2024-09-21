@@ -3,3 +3,7 @@
 [![Super Linter](https://github.com/akjong/.github/actions/workflows/lint.yml/badge.svg)](https://github.com/akjong/.github/actions/workflows/lint.yml)
 
 AKjong Lab focuses on Web3 Infras and Trading.
+
+## Github Actions
+
+- [blacksmith](https://www.blacksmith.sh/) - speed up github actions
