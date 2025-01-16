@@ -1,16 +1,11 @@
+# Akjong Lab
 
-            ___    __     _                            ____   _                        __   _____
-           /   |  / /__  (_)___  ____  ____ _   ____ _/ / /  (_)___     _      _____  / /_ |__  /
-          / /| | / //_/ / / __ \/ __ \/ __ `/  / __ `/ / /  / / __ \   | | /| / / _ \/ __ \ /_ < 
-         / ___ |/ ,<   / / /_/ / / / / /_/ /  / /_/ / / /  / / / / /   | |/ |/ /  __/ /_/ /__/ / 
-        /_/  |_/_/|_|_/ /\____/_/ /_/\__, /   \__,_/_/_/  /_/_/ /_/    |__/|__/\___/_.___/____/  
-                   /___/            /____/                                                       
+My one person tech company, building MEV bots and SaaS to make money.
 
+## Projects
 
-## About
-
-AKjong Lab focuses on Web3 Infras and Trading.
-
-## Sharings
-
-Follow me on [youtube](https://www.youtube.com/@akjonglab)
+* [Rust] longfeeds: generate rss feeds for any website.
+* [Rust] longread: generate a good to read markdown morning paper based on rss feeds, with translator and AI.
+* [Rust] mev-searcher: A MEV bot on Ethereum.
+* [Rust] longtrader: A Generic SDK for all crypto exchanges, like Binance, Gate.
+* [Rust] mev-knowledge: AI + search for Web3.
