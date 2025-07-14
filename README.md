@@ -7,3 +7,7 @@ AKjong Lab focuses on Web3 Infras and Trading.
 ## Github Actions
 
 - [blacksmith](https://www.blacksmith.sh/) - speed up github actions
+
+## Copilot Custom Instructions
+
+* <https://code.visualstudio.com/docs/copilot/copilot-customization#_custom-instructions>
